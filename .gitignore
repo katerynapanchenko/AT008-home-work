@@ -1,3 +1,6 @@
 test-output
 target
-.*
+#Eclipse files
+*.settings
+*.classpath
+*.project
